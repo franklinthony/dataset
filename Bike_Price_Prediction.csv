@@ -1,0 +1,309 @@
+S.no;Bike_company;Bike_model;Manufacured_year;Engine_warranty;Engine_type;Fuel_type;CC;Fuel_Capacity;Price
+1;Bajaj;Avenger 220;2020;5;Single;Petrol;220CC;10 Litres;113000
+2;TVS;Apache RTR;2020;5;V-twin;Petrol;120CC;11 Litres;70000
+3;Hero;Passion;2020;5;Boxer;Petrol;140CC;12 Litres;85000
+4;Honda;Activa 3G;2020;5;Single;Petrol;150CC;13 Litres;90000
+5;Suzuki;Access;2020;5;V-twin;Petrol;350CC;14 Litres;65000
+6;Royal Enfield;Royal Enfield;2019;5;Boxer;Petrol;350CC;15 Litres;180000
+7;Yamaha;Fascino;2018;5;Single;Petrol;150CC;16 Litres;65000
+8;KTM;KTM RC ;2017;5;V-twin;Petrol;300CC;17 Litres;150000
+9;Mahindra;Gusto;2016;5;Boxer;Petrol;100CC;18 Litres;89000
+10;Kawasaki;Ninja;2011;5;Single;Petrol;170CC;19 Litres;99999
+11;Ducati;Scrambler;2012;5;V-twin;Petrol;320CC;20 Litres;250000
+12;BMW;G 310 R;2013;10;Boxer;Petrol;420CC;21 Litres;350000
+13;Banelli;Limperiale;2014;10;Single;Petrol;220CC;22 Litres;130000
+14;Harley Davidson;Davidson Street;2015;10;V-twin;Petrol;140CC;23 Litres;340000
+15;Lectro Electric;Gold;2020;2;Boxer;Electricity;120CC;Battery;65000
+16;Li-ion Elektrik Solution;Silver;2020;2;Two-Stroke;Electricity;150CC;Battery;69000
+17;Ather Energy;Energitic;2020;4;Two-Stroke;Electricity;130CC;Battery;73000
+18;Bajaj;Pulsar;2019;5;Two-Stroke;Petrol;150CC;15 Litres;89000
+19;TVS;Jupiter;2018;10;Two-Stroke;Petrol;170CC;16 Litres;99000
+20;Hero;Glamour;2017;10;V-twin;Petrol;125CC;17 Litres;74000
+21;Honda;Shine;2016;10;V-twin;Petrol;155CC;18 Litres;79999
+22;Suzuki;Gixer;2011;2;V-twin;Petrol;175CC;19 Litres;87999
+23;Royal Enfield;Bullet;2012;2;V-twin;Petrol;250CC;20 Litres;185999
+24;Yamaha;FZ-S;2013;4;Boxer;Petrol;155CC;15 Litres;90000
+25;KTM;Duke;2014;;Boxer;Petrol;360CC;16 Litres;99999
+26;Mahindra;Mojo;2015;5;Boxer;Petrol;125CC;17 Litres;55000
+27;Kawasaki;Vulcon;2020;4;Boxer;Petrol;350CC;18 Litres;350000
+28;Ducati;Panigale;2020;6;Boxer;Petrol;400CC;19 Litres;459999
+29;BMW;310 GS;2020;7;Boxer;Petrol;469CC;20 Litres;330000
+30;Banelli;Leoncino;2012;8;Single;Petrol;500CC;21 Litres;449090
+31;Harley Davidson;Davidson Iron;2013;10;Single;Petrol;550CC;22 Litres;529999
+32;Lectro Electric;Leon;2014;2;Single;Electricity;120CC;Battery;62000
+33;Li-ion Elektrik Solution;Ceon;2015;2;Single;Electricity;130CC;Battery;65000
+34;Lectro Electric;Neon;1990;2;Single;Electricity;145CC;Battery;79000
+35;Mahindra;Gutter;2020;5;Single;Electricity;135CC;16 Litres;65000
+36;Mahindra;Flutter;2019;4;Single;Petrol;150CC;17 Litres;70000
+37;Mahindra;Shutter;2018;5;Single;Electricity;135CC;18 Litres;68000
+38;Mahindra;Mojo;2017;5;V-twin;Petrol;150CC;19 Litres;77990
+39;Mahindra;Jojo;2016;5;Single;Petrol;170CC;20 Litres;89000
+40;Harley Davidson;Fat boy;2016;5;Boxer;Petrol;250CC;15 Litres;189000
+41;Harley Davidson;Forty Eight;2017;4;Single;Petrol;300CC;16 Litres;240000
+42;Harley Davidson;Low Rider;2018;5;Single;Petrol;320CC;17 Litres;300000
+43;Harley Davidson;Low Rider S;2019;5;Single;Petrol;350CC;18 Litres;358999
+44;Banelli;TRK 502;2016;5;V-twin;Petrol;400CC;19 Litres;550000
+45;Banelli;1200 Custom;2017;4;Single;Petrol;450CC;20 Litres;590000
+46;Banelli;Imperiale;2018;5;Boxer;Petrol;500CC;21 Litres;623000
+47;Banelli;TRK 550;2019;5;Single;Petrol;525CC;22 Litres;650000
+48;BMW;F 900 R;2014;10;V-twin;Petrol;895CC;20 Litres;890000
+49;BMW;F 990 XR;2015;10;Single;Petrol;990CC;15 Litres;990000
+50;BMW;G 310 S;2017;10;Boxer;Petrol;1025CC;16 Litres;1200000
+51;BMW;G 320 X;2019;10;V-twin;Petrol;1225CC;17 Litres;1234500
+52;Kawasaki;Ninja;2019;7;Single;Petrol;649CC;18 Litres;679999
+53;Kawasaki;Versys;2017;7;Boxer;Petrol;729CC;19 Litres;549999
+54;Kawasaki;Vulcon;2017;7;Boxer;Petrol;899CC;20 Litres;767888
+55;Kawasaki;G 900;2017;7;Boxer;Petrol;917CC;21 Litres;898999
+56;KTM;Adventure;2019;5;V-twin;Petrol;210CC;22 Litres;124500
+57;KTM;Duke;2019;5;Single;Petrol;275CC;20 Litres;145000
+58;KTM;Duke;2017;4;Boxer;Petrol;390CC;15 Litres;219500
+59;KTM;Duke 390;2017;5;V-twin;Petrol;390CC;16 Litres;232000
+60;KTM;Duke 125;2017;5;Single;Petrol;125CC;17 Litres;124500
+61;KTM;Duke 300;2017;3;Boxer;Petrol;300CC;18 Litres;135000
+62;Honda;Splendor;2019;3;Boxer;Petrol;125CC;19 Litres;70000
+63;Honda;Activa 5G;2019;3;Boxer;Petrol;135CC;20 Litres;64000
+64;Honda;Unicorn;2017;3;Single;Petrol;150CC;21 Litres;79999
+65;Honda;Livo;2019;3;Boxer;Petrol;175CC;22 Litres;75000
+66;Honda;Hornet;2019;3;V-twin;Petrol;190CC;20 Litres;89000
+67;Honda;X-Blade;2017;3;V-twin;Petrol;200CC;15 Litres;125000
+68;Hero;Passion;2019;4;V-twin;Petrol;135CC;16 Litres;75000
+69;Hero;Delux;2017;4;V-twin;Petrol;145CC;17 Litres;77000
+70;Hero;Xtreme;2019;4;V-twin;Petrol;170CC;18 Litres;81000
+71;Hero;Pulse;2019;4;V-twin;Petrol;125CC;19 Litres;55000
+72;Hero;Thunder;2017;4;V-twin;Petrol;125CC;20 Litres;56700
+73;Hero;Destini;2017;5;V-twin;Petrol;130CC;21 Litres;61000
+74;Li-ion Elektrik Solution;Ceon;2016;2;Single;Electricity;130CC;Battery;65000
+74;Li-ion Elektrik Solution;Prime;2017;3;Single;Electricity;125CC;Battery;61000
+76;Li-ion Elektrik Solution;Power;2019;50;V-twin;Electricity;130CC;Battery;56700
+77;Li-ion Elektrik Solution;Kurrent;2019;3;V-twin;Electricity;135CC;Battery;61000
+78;Li-ion Elektrik Solution;Sunny;2017;3;V-twin;Electricity;140CC;Battery;65000
+79;Li-ion Elektrik Solution;Leon;2017;3;V-twin;Electricity;150CC;Battery;65000
+80;Li-ion Elektrik Solution;Deon;2020;5;Two-Stroke;Electricity;200CC;Battery;90000
+81;Lectro Electric;Feon;2014;3;Single;Electricity;120CC;Battery;62000
+82;Lectro Electric;Essentia;2020;5;V-twin;Electricity;130CC;;250000
+83;Lectro Electric;Guide;2020;5;V-twin;Electricity;135CC;Battery;61000
+84;Lectro Electric;Pride;2020;5;Two-Stroke;Electricity;10CC;Battery;66700
+85;Lectro Electric;XSL;2020;5;Single;Electricity;150CC;Battery;71000
+86;Lectro Electric;Peppy;2020;5;V-twin;Electricity;200CC;Battery;65000
+87;Lectro Electric;Zeddy;2020;5;V-twin;Electricity;160CC;Battery;65000
+88;Ducati;Scrambler;2019;5;V-twin;Petrol;340CC;20 Litres;260000
+89;Ducati;Tumbler;2020;3;Single;Petrol;350CC;21 Litres;219500
+90;Ducati;StreetFighter;2014;3;V-twin;Petrol;380CC;22 Litres;232000
+91;Ducati;MultiStrada;2020;3;Two-Stroke;Petrol;400CC;23 Litres;124500
+92;Ducati;Svartpilen;2020;5;Single;Petrol;500CC;24 Litres;260000
+93;Ducati;Hsness;2020;3;V-twin;Petrol;590CC;25 Litres;219500
+94;Ducati;RoadStrapper;2020;5;V-twin;Petrol;650CC;26 Litres;232000
+95;Ducati;Cruise;2020;5;V-twin;Petrol;700CC;27 Litres;450000
+96;Ducati;Aboarder;2020;5;Single;Petrol;890CC;28 Litres;650000
+97;Ducati;Hsness;2019;5;Single;Petrol;900CC;29 Litres;790000
+98;Bajaj;Avenger 150;2020;5;Single;Petrol;150CC;20 Litres;103000
+99;Bajaj;Pulsar;2019;5;V-twin;Petrol;150CC;21 Litres;101000
+100;Bajaj;Pulsar NS;2020;5;V-twin;Petrol;200CC;22 Litres;650000
+101;Bajaj;CT 100;2014;3;V-twin;Petrol;160CC;23 Litres;790000
+102;Bajaj;220 F;2020;3;Single;Petrol;340CC;24 Litres;103000
+103;Bajaj;Dominar;2020;3;Single;Petrol;250CC;25 Litres;124500
+104;Bajaj;NS 200;2020;3;Single;Petrol;200CC;26 Litres;134500
+105;Yamaha;Fascino;2020;5;Single;Petrol;150CC;15 Litres;64500
+106;Yamaha;N Max;2019;4;Single;Petrol;340CC;16 Litres;65000
+107;Yamaha;XSR;2020;5;Single;Petrol;250CC;17 Litres;79000
+108;Yamaha;MTR;2019;4;V-twin;Petrol;200CC;18 Litres;103000
+109;Yamaha;NTR;2020;5;V-twin;Petrol;150CC;19 Litres;101000
+110;Yamaha;RTR;2014;6;V-twin;Petrol;340CC;20 Litres;650000
+111;Yamaha;StreetFighter;2020;5;Single;Petrol;250CC;21 Litres;790000
+112;Yamaha;DDR;2020;6;Single;Petrol;340CC;22 Litres;103000
+113;Yamaha;SDR;2020;5;Single;Petrol;250CC;23 Litres;124500
+114;Yamaha;FDR;2020;6;Single;Petrol;200CC;24 Litres;134500
+115;Suzuki;Hayabusa;2020;4;V-twin;Petrol;560CC;25 Litres;790000
+116;Suzuki;Ninja;2019;5;V-twin;Petrol;340CC;26 Litres;103000
+117;Suzuki;GS 990;2020;6;V-twin;Petrol;250CC;27 Litres;124500
+118;Suzuki;Gixer;2014;5;Two-Stroke;Petrol;200CC;28 Litres;134500
+119;Suzuki;Intruder;2020;6;Two-Stroke;Petrol;350CC;29 Litres;650000
+120;Suzuki;Shutter;2020;5;Two-Stroke;Petrol;340CC;30 Litres;790000
+121;Suzuki;Dragon;2019;6;Two-Stroke;Petrol;250CC;31 Litres;950000
+122;Suzuki;Monster;2020;4;Two-Stroke;Petrol;500CC;32 Litres;990000
+123;Suzuki;Gangster;2014;5;Two-Stroke;Petrol;550CC;33 Litres;790000
+124;Suzuki;Roadstar;2020;6;Two-Stroke;Petrol;560CC;34 Litres;950000
+125;Suzuki;Zedi;2017;5;Two-Stroke;Petrol;340CC;35 Litres;123400
+126;Ather Energy;Energitic;2020;3;Two-Stroke;Electricity;135CC;Battery;74000
+127;Ather Energy;Shiner;2019;3;V-twin;Electricity;134CC;Battery;64600
+128;Ather Energy;Raina;2020;3;V-twin;Electricity;140CC;Battery;54800
+129;Ather Energy;Grudge;2014;3;Two-Stroke;Electricity;155CC;Battery;74200
+130;Ather Energy;Booster;2020;3;Two-Stroke;Electricity;167CC;Battery;63400
+131;Ather Energy;XGB;2017;3;Two-Stroke;Electricity;176CC;Battery;73000
+132;Ather Energy;YGB;2020;3;Two-Stroke;Electricity;190CC;Battery;92400
+133;Bajaj;Cruise 220;2020;4;Single;Petrol;220CC;10 Litres;114000
+134;TVS;Apache RTR;2020;5;V-twin;Petrol;120CC;11 Litres;80000
+135;Hero;Passion;2020;6;Boxer;Petrol;140CC;12 Litres;86000
+136;Honda;Activa 3G;2020;4;Single;Petrol;150CC;13 Litres;91000
+137;Suzuki;Access;2020;5;V-twin;Petrol;350CC;14 Litres;66000
+138;Royal Enfield;Royal Enfield;2019;6;Boxer;Petrol;350CC;15 Litres;189000
+139;Yamaha;Fascino;2018;4;Single;Petrol;150CC;16 Litres;65000
+140;KTM;KTM RC ;2017;10;V-twin;Petrol;300CC;17 Litres;130000
+141;Mahindra;Gusto;2016;2;Boxer;Petrol;100CC;18 Litres;86000
+142;Kawasaki;Ninja;2011;2;Single;Petrol;170CC;19 Litres;99599
+143;Ducati;Scrambler;2012;4;V-twin;Petrol;320CC;20 Litres;250000
+144;BMW;G 310 R;2013;5;Boxer;Petrol;420CC;21 Litres;350000
+145;Banelli;Limperiale;2014;9;Single;Petrol;220CC;22 Litres;130000
+146;Harley Davidson;Davidson Street;2015;10;V-twin;Petrol;140CC;23 Litres;340000
+147;Lectro Electric;Bronze;2020;3;Boxer;Electricity;120CC;Battery;65000
+148;Li-ion Elektrik Solution;Silver;2020;3;Two-Stroke;Electricity;150CC;Battery;69000
+149;Ather Energy;Energitic;2020;3;Two-Stroke;Electricity;130CC;Battery;73000
+150;Bajaj;Pulsar;2019;5;Two-Stroke;Petrol;150CC;15 Litres;89000
+151;TVS;Jupiter;2018;4;Two-Stroke;Petrol;170CC;16 Litres;99000
+152;Hero;Glamour;2017;5;V-twin;Petrol;125CC;17 Litres;74000
+153;Honda;Shine;2016;6;V-twin;Petrol;155CC;18 Litres;79999
+154;Suzuki;Gixer;2011;7;V-twin;Petrol;175CC;19 Litres;97999
+155;Royal Enfield;Bullet;2012;8;V-twin;Petrol;250CC;21 Litres;195999
+156;Bajaj;Pulsar;2019;4;Two-Stroke;Petrol;150CC;22 Litres;99000
+157;TVS;Jupiter;2018;4;Two-Stroke;Petrol;170CC;23 Litres;109000
+158;Hero;Glamour;2017;5;V-twin;Petrol;125CC;24 Litres;64000
+159;Honda;Shine;2016;5;V-twin;Petrol;155CC;25 Litres;69999
+160;Suzuki;Gixer;2011;6;V-twin;Petrol;175CC;26 Litres;87999
+161;Royal Enfield;Bullet;2012;6;V-twin;Petrol;250CC;27 Litres;195999
+162;Royal Enfield;Royal Enfield;2019;4;Boxer;Petrol;350CC;15 Litres;189000
+163;Yamaha;Fascino;2018;5;Single;Petrol;150CC;16 Litres;64000
+164;KTM;KTM RC ;2017;6;V-twin;Petrol;300CC;17 Litres;135000
+165;Mahindra;Gusto;2016;7;Boxer;Petrol;100CC;18 Litres;87000
+166;Kawasaki;Ninja;2011;8;Single;Petrol;170CC;19 Litres;95599
+167;Ducati;Scrambler;2012;9;V-twin;Petrol;320CC;20 Litres;255000
+168;BMW;G 310 R;2013;3;Boxer;Petrol;420CC;21 Litres;355000
+169;Banelli;Limperiale;2014;12;Single;Petrol;220CC;22 Litres;135000
+170;Harley Davidson;Davidson Street;2015;13;V-twin;Petrol;140CC;23 Litres;345000
+171;TVS;Pluto;2018;10;Two-Stroke;Petrol;170CC;16 Litres;99000
+172;Hero;Glamour;2018;10;V-twin;Petrol;125CC;17 Litres;74000
+173;Honda;Shine;2018;10;V-twin;Petrol;155CC;18 Litres;79999
+174;Suzuki;Gixer;2018;2;V-twin;Petrol;175CC;19 Litres;87999
+175;Royal Enfield;Bullet;2018;2;V-twin;Petrol;250CC;20 Litres;185999
+176;Yamaha;FZ-S;2013;4;Boxer;Petrol;155CC;15 Litres;90000
+177;KTM;Duke XZ;2014;;Boxer;Petrol;360CC;16 Litres;99999
+178;Mahindra;Mojo CM;2015;5;Boxer;Petrol;125CC;17 Litres;55000
+179;Kawasaki;Vulcon NY;2020;4;Boxer;Petrol;350CC;18 Litres;350000
+180;Ducati;Panigale ZR;2020;6;Boxer;Petrol;400CC;19 Litres;459999
+181;TVS;Apache XTR;2019;5;V-twin;Petrol;320CC;11 Litres;180000
+182;Hero;Passion Pro;2020;6;Boxer;Petrol;140CC;12 Litres;76000
+183;Honda;Activa 4G;2020;4;Single;Petrol;1350CC;15 Litres;81000
+184;Suzuki;Access LR;2020;5;V-twin;Petrol;450CC;14 Litres;106000
+185;Royal Enfield;Classic;2019;6;Boxer;Petrol;450CC;25 Litres;289000
+186;Yamaha;Fascino XS;2018;4;Single;Petrol;150CC;16 Litres;63000
+187;KTM;KTM RC 350;2017;10;V-twin;Petrol;350CC;17 Litres;150000
+188;Mahindra;Gusto GS;2016;2;Boxer;Petrol;100CC;12 Litres;66000
+189;Kawasaki;Ninja Pro;2018;12;Single;Petrol;270CC;19 Litres;199599
+190;Ducati;Scrambler DU;2018;14;V-twin;Petrol;420CC;20 Litres;350000
+191;BMW;G 310 R;2019;7;Boxer;Petrol;420CC;21 Litres;380000
+192;Banelli;Limperiale Blue;2017;10;Single;Petrol;425CC;22 Litres;230000
+193;Harley Davidson;Davidson Street;2015;12;V-twin;Petrol;440CC;23 Litres;440000
+194;Hero;Duster;2020;8;Boxer;Petrol;240CC;15 Litres;96000
+195;Honda;Activa 3G;2020;3;Single;Petrol;160CC;13 Litres;85000
+196;Suzuki;Access ATR;2020;5;V-twin;Petrol;250CC;14 Litres;76000
+197;Royal Enfield;Bullet;2019;8;Boxer;Petrol;350CC;15 Litres;199000
+198;Yamaha;Fascino STR;2018;4;Single;Petrol;150CC;18 Litres;67000
+199;KTM;KTM RCX ;2017;8;V-twin;Petrol;320CC;17 Litres;135000
+200;Mahindra;Gusto;202;3;Boxer;Petrol;120CC;18 Litres;66000
+201;Kawasaki;Ninja Kaboom;2025;8;Single;Petrol;370CC;19 Litres;95599
+202;Ducati;Scrambler ZD;2017;4;V-twin;Petrol;320CC;22 Litres;260099
+203;BMW;G 410 R;2018;5;Boxer;Petrol;520CC;21 Litres;550000
+204;Banelli;Limperiale BB;2018;10;Single;Petrol;220CC;22 Litres;190099
+205;Yamaha;FZ-SR;2016;6;Boxer;Petrol;195CC;12 Litres;95000
+206;KTM;Duke DAM;2014;7;Boxer;Petrol;360CC;11 Litres;109999
+207;Mahindra;Mojo MAZ;2015;6;Boxer;Petrol;155CC;17 Litres;73500
+208;Kawasaki;Vulture;2020;6;Boxer;Petrol;300CC;15 Litres;320000
+209;Ducati;Panigale ZR-450;2020;6;Boxer;Petrol;450CC;19 Litres;489999
+210;BMW;310 GSTR;2020;8;Boxer;Petrol;409CC;20 Litres;310000
+211;Banelli;Leoncino CAP;2016;10;Single;Petrol;500CC;21 Litres;409090
+212;Harley Davidson;Davidson IronFist;2019;12;Single;Petrol;590CC;25 Litres;629999
+213;Lectro Electric;Uno;2018;3;Single;Electricity;110CC;Battery;62500
+214;Li-ion Elektrik Solution;Fiesta;2020;4;Single;Electricity;150CC;Battery;68000
+215;Lectro Electric;Cyclone;1890;4;Single;Electricity;155CC;Battery;81000
+216;Mahindra;Tsunami;2020;10;Single;Electricity;185CC;Battery;85000
+217;Mahindra;Flutter;2019;6;Single;Petrol;150CC;17 Litres;73000
+218;Mahindra;Speedo;2018;6;Single;Electricity;155CC;Battery;79099
+219;Hero;Glamour;2020;12;V-twin;Petrol;175CC;17 Litres;84099
+220;Honda;Shine XR;2018;10;V-twin;Petrol;155CC;15 Litres;77999
+221;Suzuki;Gixer RC;2020;5;V-twin;Petrol;200CC;19 Litres;97999
+222;Royal Enfield;Bullet;2012;2;V-twin;Petrol;270CC;20 Litres;195999
+223;Yamaha;FZ-S-400;2020;8;Boxer;Petrol;400CC;20 Litres;190000
+224;KTM;Duke 360T;2020;10;Boxer;Petrol;360CC;20 Litres;199999
+225;Mahindra;Maza;2020;10;Boxer;Petrol;225CC;17 Litres;155000
+226;Kawasaki;Vulcon Swip;2020;10;Boxer;Petrol;450CC;18 Litres;390000
+227;Ducati;Panigale;2020;10;Boxer;Petrol;300CC;19 Litres;359999
+228;BMW;310 BR;2020;10;Boxer;Petrol;469CC;25 Litres;320000
+229;Banelli;Leoncino LLI;2020;8;Single;Petrol;500CC;19 Litres;439090
+230;Harley Davidson;Davidson Romeo;2020;10;Single;Petrol;650CC;22 Litres;629999
+231;Odysse;Odysse Electric Evoqis;2020;5;Boxer;Electricity;125CC;Battery;50000
+232;Odysse;Odysse Electric Evoqis XS;2020;5;Boxer;Electricity;150CC;Battery;55000
+233;Odysse;Odysse Electric Evoqis XML;2020;5;Boxer;Electricity;175CC;Battery;69000
+234;Odysse;Odysse Electric Evoqis HRT;2020;5;Boxer;Electricity;200CC;Battery;71000
+235;Odysse;Odysse Electric Evoqis HP;2020;5;Boxer;Electricity;225CC;Battery;73000
+236;Odysse;Odysse Electric Evoqis VIP;2020;5;Boxer;Electricity;250CC;Battery;75099
+237;Revolt Motors;Revolt RV400;2018;6;V-twin;Petrol;400CC;20 Litres;155000
+238;Revolt Motors;Revolt RV300;2018;6;Boxer;Petrol;200CC;17 Litres;390000
+239;Revolt Motors;Revolt RV200;2018;6;Boxer;Petrol;250CC;18 Litres;359999
+240;Revolt Motors;Revolt RV250;2018;6;Boxer;Petrol;150CC;19 Litres;320000
+241;Revolt Motors;Revolt RV150;2018;6;Boxer;Petrol;180CC;25 Litres;439090
+242;Revolt Motors;Revolt RV180;2018;6;Boxer;Petrol;180CC;19 Litres;629999
+243;Revolt Motors;Revolt RV450;2018;6;Boxer;Petrol;450CC;22 Litres;449090
+244;Revolt Motors;Revolt RV Café Racer;2018;6;Single;Petrol;500CC;23 Litres;459090
+245;CFMoto;CFMoto 650N;2019;8;Boxer;Petrol;650CC;20 Litres;490000
+246;CFMoto;CFMoto 650MT;2019;8;V-twin;Petrol;650CC;17 Litres;389999
+247;CFMoto;CFMoto 350NK;2019;8;Boxer;Petrol;350CC;18 Litres;320900
+248;CFMoto;CFMoto 200SR;2019;8;Boxer;Petrol;200CC;19 Litres;539090
+249;CFMoto;CFMoto 250SR;2019;8;Boxer;Petrol;250CC;25 Litres;679999
+250;CFMoto;CFMoto 450NR;2019;8;Boxer;Petrol;450CC;19 Litres;678999
+251;CFMoto;CFMoto 550NTR;2019;8;Boxer;Petrol;550CC;22 Litres;689999
+252;CFMoto;CFMoto 350ZR;2019;8;Boxer;Petrol;350CC;23 Litres;579909
+253;CFMoto;CFMoto 750ZTR;2019;8;Single;Petrol;750CC;24 Litres;579999
+254;CFMoto;CFMoto 650MT;2019;8;Single;Petrol;650CC;25 Litres;479999
+255;CFMoto;CFMoto 650NZ;2019;8;Single;Petrol;650CC;26 Litres;379999
+256;Triumph;Triumph Street;2018;12;Dual Stroke;Petrol;350CC;25 Litres;879999
+257;Triumph;Triumph Street Twin;2018;12;Dual Stroke;Petrol;400CC;19 Litres;978999
+258;Triumph;Triumph Rocket;2018;12;Dual Stroke;Petrol;500CC;22 Litres;1089999
+259;Triumph;Triumph Bournville;2018;12;Dual Stroke;Petrol;600CC;23 Litres;1179909
+260;Triumph;Triumph Tiger;2018;12;Dual Stroke;Petrol;650CC;24 Litres;1579999
+261;Triumph;Triumph Thunderbird;2018;12;Dual Stroke;Petrol;700CC;25 Litres;1379999
+262;Triumph;Triumph Thunderbold;2018;12;Dual Stroke;Petrol;900CC;26 Litres;399999
+263;Triumph;Triumph SpeedMaster;2018;12;Dual Stroke;Petrol;979CC;25 Litres;545909
+264;Triumph;Triumph Racer;2018;12;Dual Stroke;Petrol;1000CC;19 Litres;989999
+265;Triumph;Triumph Rider;2018;12;Dual Stroke;Petrol;1025CC;22 Litres;619999
+266;Triumph;Triumph Thunderbird LT;2018;12;Dual Stroke;Petrol;679CC;23 Litres;809999
+267;Triumph;Triumph Avenue;2018;12;Dual Stroke;Petrol;300CC;24 Litres;109999
+268;Triumph;Triumph Crusher;2018;12;Dual Stroke;Petrol;250CC;25 Litres;123456
+269;Triumph;Triumph Tiger 1200;2018;12;Dual Stroke;Petrol;1200CC;26 Litres;1679900
+270;Triumph;Triumph Panther 1250;2018;12;Dual Stroke;Petrol;1250CC;27 Litres;1779990
+271;Jawa;Jawa Perek;2020;8;Oxidiser-Air inlet;Petrol;250CC;25 Litres;150000
+272;Jawa;Jawa 42;2020;8;Oxidiser-Air inlet;Petrol;220CC;19 Litres;179999
+273;Jawa;Jawa Style;2020;8;Oxidiser-Air inlet;Petrol;230CC;22 Litres;155000
+274;Jawa;Jawa Milo;2020;8;Oxidiser-Air inlet;Petrol;300CC;23 Litres;189000
+275;Jawa;Jawa Xylo;2020;8;Oxidiser-Air inlet;Petrol;350CC;24 Litres;145000
+276;Jawa;Jawa HTC;2020;8;Oxidiser-Air inlet;Petrol;400CC;25 Litres;259999
+277;Jawa;Jawa Zeppelin;2020;8;Oxidiser-Air inlet;Petrol;420CC;22 Litres;249999
+278;22Kymco;Flow;2020;5;Boxer;Electricity;130CC;10 Litres;55000
+279;22Kymco;iFlow;2020;5;Boxer;Electricity;145CC;11 Litres;54700
+280;22Kymco;Fiesta;2020;4;Single;Electricity;160CC;12 Litres;59760
+281;22Kymco;Benzo;2020;5;Single;Electricity;185CC;13 Litres;61568
+282;22Kymco;Like EV;2020;5;Single;Electricity;205CC;14 Litres;63599
+283;22Kymco;Like 200;2020;5;Single;Electricity;220CC;15 Litres;67989
+284;22Kymco;X-Town;2020;5;Single;Electricity;235CC;16 Litres;69879
+285;TVS;Jupiter;2017;3;Single;Petrol;125CC;17 Litres;74500
+286;Yamaha;Fascino;2017;4;Single;Petrol;125CC;18 Litres;75000
+287;Honda;Pleasure;2017;5;Single;Petrol;125CC;19 Litres;76500
+288;Hero;Aprilia;2020;6;Boxer;Petrol;130CC;15 Litres;77500
+289;Hero;Zeppi;2020;6;Boxer;Petrol;155CC;16 Litres;74500
+290;Hero;Mono;2020;6;Boxer;Petrol;195CC;17 Litres;76550
+291;Hero;Ferori;2020;6;Boxer;Petrol;210CC;18 Litres;76590
+292;Okinawa;Praise;2019;4;Boxer;Petrol;185CC;18 Litres;61568
+293;Okinawa;Praise I;2019;4;Boxer;Petrol;205CC;19 Litres;63599
+294;Okinawa;Praise Pro;2019;4;Boxer;Petrol;220CC;15 Litres;67989
+295;Okinawa;Apriori;2019;4;Boxer;Petrol;235CC;16 Litres;69879
+296;Okinawa;Ridge;2019;4;Boxer;Petrol;125CC;17 Litres;74500
+297;Okinawa;Raise;2019;4;Boxer;Petrol;125CC;18 Litres;75000
+298;Okinawa;Lite;2019;4;Boxer;Petrol;125CC;18 Litres;76500
+299;Okinawa;Bright;2019;4;Boxer;Petrol;185CC;19 Litres;80000
+300;Okinawa;Kite;2019;4;Boxer;Petrol;205CC;15 Litres;78000
+301;Bgauss;Bgauss Prior;2017;3;Boxer;Petrol;125CC;16 Litres;79666
+302;Bgauss;Bgauss UM;2017;3;Boxer;Petrol;125CC;17 Litres;80416
+303;Bgauss;Bgauss A1;2017;3;Boxer;Petrol;125CC;18 Litres;81166
+304;Bgauss;Bgauss B8;2017;3;Boxer;Petrol;185CC;19 Litres;81916
+305;Bgauss;Bgauss Radiator;2017;3;Boxer;Petrol;205CC;20 Litres;82666
+306;Bgauss;Bgauss Razor;2017;3;Boxer;Petrol;185CC;21 Litres;83416
+307;Bgauss;Bgauss Flash;2017;3;Boxer;Petrol;205CC;22 Litres;84166
+308;Bgauss;Bgauss Hash;2017;3;Boxer;Petrol;220CC;23 Litres;84916
